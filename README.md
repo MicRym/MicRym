@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicRym
 - 👀 I’m interested in GameDev, Electronics and Interior Design
-- 🌱 I’m currently learning Unity 3D
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on GameDev and Electronics
 - 📫 How to reach me : www.linkedin.com/in/michał-rymarczyk
 <!---
